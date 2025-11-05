@@ -76,3 +76,4 @@ return 0;
 <img width="1360" height="887" alt="image" src="https://github.com/user-attachments/assets/1c02cdfc-734c-436c-a5a9-1675b2477896" />
 
 ## Result:
+The implement the Playfair Substitution technique is verified and executed successfully.
